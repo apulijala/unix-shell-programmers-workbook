@@ -1,0 +1,5 @@
+./ch7/billingalarms/.terraform
+**.terraform**
+**libs**
+**terraform.tfstate**
+**.tar.gz**
